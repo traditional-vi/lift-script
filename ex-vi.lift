@@ -1,0 +1,8 @@
+# Lift commands for ex-vi
+coalesce
+
+<2004-12-04T13:17:18Z> & /empty log message/ squash
+
+lint
+
+gitify
